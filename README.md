@@ -9,7 +9,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?color=%234d8c33ff&center=true&vCenter=true&lines=SPIDER WEB PREMIUM SCRIPT" />
 
-Expect the unexpected, for we are always watching I am spider the tech lord nobody does it like me so ask your sorce who is the sorce
+Expect the unexpected, for we are always watching .I am spider the tech lord nobody does it like me 
+so ask your sorce who is the sorce
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 <a href="https://github.com/Hubdarkweb"><img width=550 src="https://github-profile-trophy.vercel.app/?username=Hubdarkweb&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
