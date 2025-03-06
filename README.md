@@ -6,9 +6,6 @@
 <h3 align="center">
   <img src="https://i.imgur.com/dVaLQHq.jpeg" width="25"> 
   &nbsp; 𝙒𝙀𝙇𝘾𝙊𝙈𝙀 𝙏𝙊 SPIDER WEB 𝙒𝙊𝙍𝙇𝘿 &nbsp;
-  <img src="![alt text](image.png)" width="25"> 
-</h3>
-<img align="center" alt="line" src="![alt text](image-2.png)">
 
 </p>
 <img src="https://readme-typing-svg.herokuapp.com?color=%234d8c33ff&center=true&vCenter=true&lines=SPIDER WEB PREMIUM SCRIPT" />
