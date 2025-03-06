@@ -21,13 +21,13 @@ so ask your sorce who is the sorce
  <img src="https://profile-counter.glitch.me/Hubdarkweb/count.svg" alt="Visitors">
 </p>
 
-### INSTALL SCRIPT 
+### HERE IS THE SCRIPT ENJOY
 ```
 apt install -y && apt update -y && apt upgrade -y && wget -q https://github.com/spider660/spider-web-vps/main/genz.sh && chmod +x genz.sh && ./genz.sh
 
 ```
 
-### UPDATED SCRIPT
+### HERE IS THE APDATED ONE ENJOY
 ```
 wget https://github.com/spider660/spider-web-vps/main/update.sh && chmod +x update.sh && ./update.sh
 
@@ -86,4 +86,4 @@ wget https://github.com/spider660/spider-web-vps/main/update.sh && chmod +x upda
 ### WHATSAPP 
 <p align="center"><b>
   <a href="https://wa.me/+254718303684" target=â€_blankâ€><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=#006400">
-    EXPECT US
+    EXPECT US REGARDS TO SPIDER THE TECH LORD
