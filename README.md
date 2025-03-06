@@ -1,16 +1,20 @@
+
 <!-- Github README -->
 
-<p align="center"><big><img src="https://img.shields.io/badge/  SPIDEY A 𝘾𝙀𝙍𝙏𝙄𝙁𝙄𝙀𝘿 𝙋𝙍𝙊𝙂𝙍𝘼𝙈𝙈𝙀𝙍 THE BEST IN THE INDUSTRY PREMIUM SCRIPT -green?colorA=%2300ff15ff&colorB=%23ff0000ec&style=flat-square"></big>
+<p align="center"><big><img src="https://img.shields.io/badge/ 𝘾𝙀𝙍𝙏𝙄𝙁𝙄𝙀𝘿 𝙋𝙍𝙊𝙂𝙍𝘼𝙈𝙈𝙀𝙍 THE BEST IN THE INDUSTRY -green?colorA=%2300ff15ff&colorB=%23ff0000ec&style=flat-square"></big>
 
 </i></b></h3>
 <h3 align="center">
   <img src="https://i.imgur.com/dVaLQHq.jpeg" width="25"> 
-  &nbsp; 𝙒𝙀𝙇𝘾𝙊𝙈𝙀 𝙏𝙊 SPIDER WEB 𝙒𝙊𝙍𝙇𝘿 TECH LORD  &nbsp;
+  &nbsp; 𝙒𝙀𝙇𝘾𝙊𝙈𝙀 𝙏𝙊 SPIDER WEB 𝙒𝙊𝙍𝙇𝘿 &nbsp;
+  <img src="![alt text](image.png)" width="25"> 
+</h3>
+<img align="center" alt="line" src="![alt text](image-2.png)">
 
+</p>
 <img src="https://readme-typing-svg.herokuapp.com?color=%234d8c33ff&center=true&vCenter=true&lines=SPIDER WEB PREMIUM SCRIPT" />
 
-Expect the unexpected, for we are always watching .I am spider the tech lord nobody does it like me 
-so ask your sorce who is the sorce
+Expect the unexpected, for we are always watching I am spider the tech lord nobody does it like me so ask your sorce who is the sorce
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 <a href="https://github.com/Hubdarkweb"><img width=550 src="https://github-profile-trophy.vercel.app/?username=Hubdarkweb&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
@@ -21,13 +25,13 @@ so ask your sorce who is the sorce
  <img src="https://profile-counter.glitch.me/Hubdarkweb/count.svg" alt="Visitors">
 </p>
 
-### HERE IS THE SCRIPT ENJOY
+### INSTALL SCRIPT 
 ```
 apt install -y && apt update -y && apt upgrade -y && wget -q https://github.com/spider660/spider-web-vps/main/genz.sh && chmod +x genz.sh && ./genz.sh
 
 ```
 
-### HERE IS THE APDATED ONE ENJOY
+### UPDATED SCRIPT
 ```
 wget https://github.com/spider660/spider-web-vps/main/update.sh && chmod +x update.sh && ./update.sh
 
@@ -86,4 +90,4 @@ wget https://github.com/spider660/spider-web-vps/main/update.sh && chmod +x upda
 ### WHATSAPP 
 <p align="center"><b>
   <a href="https://wa.me/+254718303684" target=â€_blankâ€><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=#006400">
-    EXPECT US REGARDS TO SPIDER THE TECH LORD
+
