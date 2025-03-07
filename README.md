@@ -5,7 +5,7 @@
 
 </i></b></h3>
 <h3 align="center">
-  <img src="https://i.imgur.com/dVaLQHq.jpeg" width="25"> 
+  <img src="https://files.catbox.moe/k7bo6v.jpg" width="25"> 
   &nbsp; 𝙒𝙀𝙇𝘾𝙊𝙈𝙀 𝙏𝙊 SPIDER WEB 𝙒𝙊𝙍𝙇𝘿 &nbsp;
   <img src="![alt text](image.png)" width="25"> 
 </h3>
